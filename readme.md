@@ -1,18 +1,14 @@
-# 🎮 My Professional Game Library
+# 🎮 Game teruntuk wibu sepuh
 
-[![Last Commit](https://img.shields.io)](https://github.com)
-[![Repo Size](https://img.shields.io)](https://github.com)
-[![License](https://img.shields.io)](LICENSE)
-
-Selamat datang di katalog koleksi game saya. Repositori ini berisi daftar judul game yang sedang saya mainkan, koleksi favorit, dan progres penyelesaiannya.
+Selamat datang di koleksi judul game sesad saya. Repositori ini berisi daftar judul game yang menurut saya sangat recomended untuk para penyelam seperti kalian.
 
 ---
 
 ## 📌 Koleksi Game Utama
 
-| No | Judul Game | Platform | Genre | Status | Rating |
+| No | Judul Game | Nilai | Genre | Coment | Rating |
 |:---|:---|:---:|:---|:---:|:---:|
-| 1 | **Elden Ring** | 🖥️ PC | Soulslike | 🏆 Completed | ⭐ 10/10 |
+| 1 | **how to make neet- chan happy** | Story, Graphic, Konsep game | simulation | Gak ada obat | ⭐ 10/10 |
 | 2 | **The Witcher 3** | 🎮 PS5 | Open World RPG | ⏳ Playing | ⭐ 9.5/10 |
 | 3 | **Valorant** | 🖥️ PC | Tactical FPS | 🔄 Ongoing | ⭐ 8/10 |
 | 4 | **Cyberpunk 2077** | 🖥️ PC | Action RPG | 🏆 Completed | ⭐ 9/10 |
