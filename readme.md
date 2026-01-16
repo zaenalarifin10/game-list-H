@@ -9,19 +9,20 @@ Selamat datang di koleksi judul game sesad saya. Repositori ini berisi daftar ju
 | No | Judul Game | Nilai | Genre | Coment | Rating |
 |:---|:---|:---:|:---|:---:|:---:|
 | 1 | **how to make neet- chan happy** | Story, Graphic, Konsep game | simulation | Gak ada obat | ⭐ 10/10 |
-| 2 | **The Witcher 3** | 🎮 PS5 | Open World RPG | ⏳ Playing | ⭐ 9.5/10 |
-| 3 | **Valorant** | 🖥️ PC | Tactical FPS | 🔄 Ongoing | ⭐ 8/10 |
-| 4 | **Cyberpunk 2077** | 🖥️ PC | Action RPG | 🏆 Completed | ⭐ 9/10 |
-| 5 | **Genshin Impact** | 📱 Mobile | Gacha / RPG | 🔄 Ongoing | ⭐ 8.5/10 |
+| 2 | **** |  |   |  | ⭐ 9.5/10 |
+| 3 | **** |  |  |  | ⭐ 8/10 |
+| 4 | **** |  |  |  | ⭐ 9/10 |
+| 5 | **** |  |  |  | ⭐ 8.5/10 |
 
 ---
 
-## 🚀 Tech Stack & Platform
-Saya memainkan game-game ini di berbagai platform berikut:
-- **PC:** RTX 3060, 16GB RAM, Ryzen 5.
-- **Console:** PlayStation 5 & Nintendo Switch.
-- **Mobile:** iOS / Android.
+## 🚀 Minimal Spek game ringan
+- **PC:** Minimum: i3 (celeron lama paling ngelek dikit doang, masih bisa jalan), Ram seikhlas nya, storage minimal gak merah
+- **Mobile:** .
 
+## 🚀 Minimal Spek game berat
+- **PC:** Minimum: i5 (celeron lama ngelek dikit doang juga, paling langsung keluar), Ram 8 (4 bisa juga kok, bisa meledak), storage space 2-5 GB (kalo kurang mending lu main yang ringan aja)
+- **Mobile:** iOS / Android.
 ---
 
 ## 📊 Statistik Gaming (Opsional)
