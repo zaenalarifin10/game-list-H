@@ -44,5 +44,5 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Dibuat dengan ❤️ oleh [Nama Kamu](https://github.com)
+  Dibuat dengan ❤️ oleh Siskondesu https://github.com/zaenalarifin10/game-list-H/
 </p>
